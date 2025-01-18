@@ -1,0 +1,62 @@
+{
+  "WIDTH": 10,
+  "HEIGHT": 10,
+  "player": {
+    "position": {
+      "x": 4,
+      "y": 8
+    },
+    "description": "Dog",
+    "graphic": "🐶"
+  },
+  "home": {
+    "position": {
+      "x": 5,
+      "y": 8
+    },
+    "description": "Castle",
+    "graphic": "🏛️"
+  },
+  "gameOver": true,
+  "status": "\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩Player moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nHunter is coming closer...\nPlayer moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nHunter is coming closer...\nPlayer moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nHunter is coming closer...\nPlayer moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nHunter is coming closer...\nPlayer moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nHunter is coming closer...\nPlayer moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nHunter is coming closer...\nPlayer moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nHunter is coming closer...\nPlayer moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nHunter is coming closer...\nPlayer moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nHunter is coming closer...\nPlayer moved successfully!\nHunter is coming closer...\nHunter is coming closer...\nWolf is lurkingHunter is coming closer...\nPlayer reached home!\nGame is over",
+  "hunters": [
+    {
+      "position": {
+        "x": 10,
+        "y": 5
+      },
+      "description": "Wolf",
+      "graphic": "🐺"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 5
+      },
+      "description": "Wolf",
+      "graphic": "🐺"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 5
+      },
+      "description": "Wolf",
+      "graphic": "🐺"
+    }
+  ],
+  "items": {
+    "(4,5)": {
+      "description": "Firtree ",
+      "graphic": "🌲"
+    },
+    "(4,8)": {
+      "position": {
+        "x": 4,
+        "y": 8
+      },
+      "description": "Dog",
+      "graphic": "🐶"
+    }
+  }
+}
