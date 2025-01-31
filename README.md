@@ -22,6 +22,6 @@ For detailed instructions on how to run each program, please refer to the indivi
 <h4><b>Technologies Used:</b></h4>
 
 Java (for object-oriented programming)
-Gradle (for build automation, used in Task 02 and Task 03) -->
+Gradle (for build automation, used in Task 02 and Task 03)
 
 
