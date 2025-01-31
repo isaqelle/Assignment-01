@@ -1,4 +1,4 @@
-<h4>Java OOP Project - HKR</h4>
+<h1>Java OOP Project - HKR</h1>
 This repository contains the implementation of various tasks from the Java Object-Oriented Programming (OOP) course at HKR. The project includes three tasks, with the second and third tasks also incorporating Gradle for dependency management and build automation.
 
 The project consists of the following tasks:
