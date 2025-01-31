@@ -15,8 +15,10 @@ Dice Game: A fun dice game where the user competes by rolling dice and achieving
 In this game, the user must navigate their way to a designated home point without getting caught by wolves. The game contains features like adding items to a grid (gameplan), setting game difficulty and choosing a game avatar.
 
 <b>Running the Programs</b>
+
 For detailed instructions on how to run each program, please refer to the individual README file within the projects folder.
 
 <b>Technologies Used</b>
+
 Java (for object-oriented programming)
 Gradle (for build automation, used in Task 02 and Task 03)
