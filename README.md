@@ -14,12 +14,12 @@ Dice Game: A fun dice game where the user competes by rolling dice and achieving
 <h3><b>Task 03: Adlez Game</b></h3>
 In this game, the user must navigate their way to a designated home point without getting caught by wolves. The game contains features like adding items to a grid (gameplan), setting game difficulty and choosing a game avatar.
 
+<br>
+<h4><b>Running the Programs</b></h4>
 
-<b>Running the Programs</b>
+For detailed instructions on how to run each program, please refer to the individual README file within the projects folder.<br>
 
-For detailed instructions on how to run each program, please refer to the individual README file within the projects folder.
-
-<b>Technologies Used</b>
+<h4><b>Technologies Used</b></h4>
 
 Java (for object-oriented programming)
 Gradle (for build automation, used in Task 02 and Task 03)
